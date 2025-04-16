@@ -17,7 +17,7 @@ It includes:
 
 # Benchmark Summary (PDF)
 
-[View Benchmark Report](docs/benchmark-summary.pdf)
+[View Benchmark Report](benchmark-summary.pdf)
 
 This report includes:
 - A chart comparing inference latency
